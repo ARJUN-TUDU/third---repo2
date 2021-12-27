@@ -1,4 +1,6 @@
 # third---repo2
+This is a simple ui practice using HTML , CSS 
+
 
 <img src = "new_pic2.png">
 <img src = "new_pic11.png">
